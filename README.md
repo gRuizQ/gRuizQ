@@ -95,6 +95,7 @@ Sou desenvolvimento full stack e analise de sistemas com principais dominios em 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/NestJS-D92D20?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
     <img src="https://img.shields.io/badge/JasperSoft_Studio-0E7490?style=for-the-badge" alt="JasperSoft Studio" />
     <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge" alt="DBeaver" />
