@@ -90,6 +90,7 @@ Sou desenvolvimento full stack e analise de sistemas com principais dominios em 
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
     <img src="https://img.shields.io/badge/CodeBlocks-41AD48?style=for-the-badge" alt="CodeBlocks" />
+    <img src="https://img.shields.io/badge/Claude_Code-555?style=for-the-badge&logo=claude" alt="Claude" />
     <img src="https://img.shields.io/badge/TRAE_AI-111827?style=for-the-badge" alt="TRAE AI" />
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
