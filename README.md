@@ -45,11 +45,11 @@ Sou desenvolvimento full stack e analise de sistemas com principais dominios em 
   <summary><b>🎨 Frontend & UI</b></summary>
   <p align="left">
     <img src="https://img.shields.io/badge/XHTML-E34C26?style=for-the-badge&logoColor=white" alt="XHTML" />
-    <img src="https://img.shields.io/badge/JSF%2FPrimeFaces-2F6DB5?style=for-the-badge" alt="JSF PrimeFaces" />
+    <img src="https://img.shields.io/badge/JSF%2FPrimeFaces-2F6DB5?style=for-the-badge&logo=primefaces" alt="JSF PrimeFaces" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge" alt="Shadcn/ui" />
+    <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui" alt="Shadcn/ui" />
   </p>
 </details>
 
@@ -89,9 +89,9 @@ Sou desenvolvimento full stack e analise de sistemas com principais dominios em 
   <p align="left">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-    <img src="https://img.shields.io/badge/CodeBlocks-41AD48?style=for-the-badge" alt="CodeBlocks" />
-    <img src="https://img.shields.io/badge/Claude_Code-555?style=for-the-badge&logo=claude" alt="Claude" />
-    <img src="https://img.shields.io/badge/TRAE_AI-111827?style=for-the-badge" alt="TRAE AI" />
+    <img src="https://img.shields.io/badge/CodeBlocks-41AD48?style=for-the-badge&logo=codeblocks" alt="CodeBlocks" />
+    <img src="https://img.shields.io/badge/Claude_Code-555?style=for-the-badge&logo=claudecode" alt="Claude" />
+    <img src="https://img.shields.io/badge/TRAE_AI-111827?style=for-the-badge&logo=trae" alt="TRAE AI" />
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -101,7 +101,7 @@ Sou desenvolvimento full stack e analise de sistemas com principais dominios em 
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
     <img src="https://img.shields.io/badge/JasperSoft_Studio-0E7490?style=for-the-badge" alt="JasperSoft Studio" />
-    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge" alt="DBeaver" />
+    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver" alt="DBeaver" />
     <img src="https://img.shields.io/badge/PgAdmin_4-336791?style=for-the-badge" alt="PgAdmin 4" />
     <img src="https://img.shields.io/badge/Postgres_Compare-1F2937?style=for-the-badge" alt="Postgres Compare" />
   </p>
